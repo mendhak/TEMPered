@@ -39,6 +39,8 @@ struct temper_type known_temper_types[]={
 				"TEMPerHumV1.0rHu",
 				"TEMPerHumM12V1.0",
 				"TEMPerHumM12V1.2",
+                                "TEMPerHumM12V1",
+                                "TEMPermM12V1",
 				NULL
 			}
 		},
